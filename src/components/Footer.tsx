@@ -55,7 +55,7 @@ export default function Footer() {
 
         <div className="border-t border-navy-700 pt-6 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-xs text-gray-500">
-            © 2025 ChurnGuard AI — Portfolio Data Science & ML Engineering
+            © 2025 ChurnGuard AI — Build By Chalabi Mohammed Amine. All rights reserved.
           </p>
           <div className="flex items-center gap-4">
             <a href="#" className="text-gray-500 hover:text-blue-400 transition-colors" title="GitHub">
